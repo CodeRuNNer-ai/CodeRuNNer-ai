@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+source-photo.*
+source-prepped.png
+ascii.txt
+ascii-portrait.svg

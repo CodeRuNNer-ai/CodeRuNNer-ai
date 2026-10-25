@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="358" viewBox="0 0 860 358" font-family="Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15">
+<style>.l{animation:in .45s ease-out backwards}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}</style>
+<rect x="0.5" y="0.5" width="859" height="357" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 38 V10.5 a10 10 0 0 1 10 -10 H849.5 a10 10 0 0 1 10 10 V38 Z" fill="#161b22"/>
+<circle cx="24" cy="19.0" r="6" fill="#ff5f56"/>
+<circle cx="46" cy="19.0" r="6" fill="#ffbd2e"/>
+<circle cx="68" cy="19.0" r="6" fill="#27c93f"/>
+<text x="430.0" y="24.0" text-anchor="middle" fill="#8b949e" font-size="13">coderunner@github: ~ — neofetch</text>
+<text class="l" style="animation-delay:0s" x="28" y="90"><tspan fill="#7ee787">coderunner@github</tspan><tspan fill="#c9d1d9"> ~ $ </tspan><tspan fill="#c9d1d9">neofetch</tspan></text>
+<text class="l" style="animation-delay:0.35s" x="28" y="120" fill="#8b949e">────────────────────────────────────────────────────</text>
+<g class="l" style="animation-delay:0.70s"><text x="28" y="150" fill="#7ee787" font-weight="bold">Name</text><text x="158" y="150" fill="#c9d1d9">Abhijeet  (CodeRuNNer-ai)</text></g>
+<g class="l" style="animation-delay:1.05s"><text x="28" y="180" fill="#79c0ff" font-weight="bold">Now</text><text x="158" y="180" fill="#c9d1d9">MCA student · building frontend + backend web apps</text></g>
+<g class="l" style="animation-delay:1.40s"><text x="28" y="210" fill="#ffa657" font-weight="bold">Languages</text><text x="158" y="210" fill="#c9d1d9">JavaScript · HTML · CSS · EJS</text></g>
+<g class="l" style="animation-delay:1.75s"><text x="28" y="240" fill="#79c0ff" font-weight="bold">Stack</text><text x="158" y="240" fill="#c9d1d9">React · Node.js · MongoDB</text></g>
+<g class="l" style="animation-delay:2.10s"><text x="28" y="270" fill="#d2a8ff" font-weight="bold">Tools</text><text x="158" y="270" fill="#c9d1d9">n8n · Git · GitHub Actions</text></g>
+<g class="l" style="animation-delay:2.45s"><text x="28" y="300" fill="#ff7b72" font-weight="bold">Projects</text><text x="158" y="300" fill="#c9d1d9">Personalized-Learning-System · Hospital-Appointment-App</text></g>
+<g class="l" style="animation-delay:2.80s"><text x="28" y="330" fill="#7ee787" font-weight="bold">Highlights</text><text x="158" y="330" fill="#c9d1d9">9 public repos · learning something new every week</text></g>
+</svg>

@@ -17,6 +17,7 @@ MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", 
 def level(count: int, peak: int) -> int:
     if count <= 0:
         return 0
+    
     if peak <= 4:
         return min(count, 4)
     q = count / peak
